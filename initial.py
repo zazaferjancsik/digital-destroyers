@@ -13,6 +13,10 @@ for alphabet in characters:
                 for list in content["http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label"]:
                         if 'fictional character'in list:
                             character.append(content)
-with open('filtered_characters.json','w',encoding='utf-8')as file:
-    json.dump(character,file)
+    print("Alphabet " +str(alphabet)+" done.")
 
+
+with open('filtered_characters.json','w',encoding='utf-8')as file:
+    json.dump(character,file, indent = 4)
+
+print("Done")

@@ -7,14 +7,14 @@
 
 import json
 
-with open() as filtered_json:
-    filter_by_fic_character = filtered_json.read()
+with open('filtered_characters.json', encoding='utf-8') as filtered_json:
+    filter_by_fic_character = json.load(filtered_json)
 
 # create an empty dictionary to add all the filtered characters to by gender
 filtered_dictionaryCHARAC_GEN= {}
 
 for letter in filter_by_fic_character:
-    for character in filter_by_fic_character[letter]:
+    for character in letter:
 # json file specifies per ontology/gender so filter for this in the filtered dictionary
         if "ontology/gender" in filter_by_fic_character[letter][character]:
             filtered_dictionaryCHARAC_GEN[character] =  filter_by_fic_character[letter][character]
