@@ -1,0 +1,4042 @@
+[
+    {
+        "title": "Zabu",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Jack Kirby",
+            "Stan Lee"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zabu",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Jack_Kirby",
+            "http://dbpedia.org/resource/Stan_Lee"
+        ]
+    },
+    {
+        "title": "Zac_(Battlestar_Galactica)",
+        "ontology/series": "http://dbpedia.org/resource/Battlestar_Galactica",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/portrayer_label": "Rick Springfield",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zac (Battlestar Galactica)",
+        "ontology/portrayer": "http://dbpedia.org/resource/Rick_Springfield",
+        "ontology/series_label": "Battlestar Galactica"
+    },
+    {
+        "title": "Zac_MacGuire",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zac MacGuire"
+    },
+    {
+        "title": "Zac_Smith_(Shortland_Street)",
+        "ontology/televisionSeries_label": "Shortland Street",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Shortland_Street",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zac Smith (Shortland Street)"
+    },
+    {
+        "title": "Zach_Slater",
+        "ontology/televisionSeries_label": "All My Children",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/All_My_Children",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zach Slater"
+    },
+    {
+        "title": "Zach_Slater_and_Kendall_Hart",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zach Slater and Kendall Hart"
+    },
+    {
+        "title": "Zach_Stevens",
+        "ontology/series": "http://dbpedia.org/resource/The_O.C.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/The_O.C._(season_2)",
+        "ontology/creator_label": "Josh Schwartz",
+        "ontology/firstAppearance": [
+            "(episode 2.02)",
+            "The Way We Were"
+        ],
+        "ontology/lastAppearance_label": "The O.C. (season 2)",
+        "ontology/portrayer_label": "Michael Cassidy (actor)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "Comic book",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zach Stevens",
+        "ontology/portrayer": "http://dbpedia.org/resource/Michael_Cassidy_(actor)",
+        "ontology/occupation": "http://dbpedia.org/resource/Comic_book",
+        "ontology/creator": "http://dbpedia.org/resource/Josh_Schwartz",
+        "ontology/series_label": "The O.C."
+    },
+    {
+        "title": "Zachariah_(Supernatural)",
+        "ontology/species": "http://dbpedia.org/resource/Characters_of_Supernatural",
+        "ontology/series": "http://dbpedia.org/resource/Supernatural_(U.S._TV_series)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "It's a Terrible Life",
+        "ontology/species_label": "Characters of Supernatural",
+        "ontology/portrayer_label": "Kurt Fuller",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zachariah (Supernatural)",
+        "ontology/portrayer": "http://dbpedia.org/resource/Kurt_Fuller",
+        "ontology/series_label": "Supernatural (U.S. TV series)"
+    },
+    {
+        "title": "Zachary_Gray",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": [
+            "http://dbpedia.org/resource/An_Acceptable_Time",
+            "http://dbpedia.org/resource/1989_in_literature"
+        ],
+        "ontology/creator_label": "Madeleine L'Engle",
+        "ontology/firstAppearance": "The Moon by Night 1963",
+        "ontology/lastAppearance_label": [
+            "An Acceptable Time",
+            "1989 in literature"
+        ],
+        "ontology/portrayer_label": "Jared Padalecki",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zachary Gray",
+        "ontology/portrayer": "http://dbpedia.org/resource/Jared_Padalecki",
+        "ontology/creator": "http://dbpedia.org/resource/Madeleine_L'Engle"
+    },
+    {
+        "title": "Zachary_Zatara",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Geoff Johns",
+            "Tony Daniel"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zachary Zatara",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Geoff_Johns",
+            "http://dbpedia.org/resource/Tony_Daniel"
+        ]
+    },
+    {
+        "title": "Zack_Addy",
+        "ontology/series": "http://dbpedia.org/resource/Bones_(TV_series)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/Bones_(season_5)",
+        "ontology/creator_label": "Hart Hanson",
+        "ontology/firstAppearance": "Pilot",
+        "ontology/lastAppearance_label": "Bones (season 5)",
+        "ontology/portrayer_label": "Eric Millegan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zack Addy",
+        "ontology/gender": "http://dbpedia.org/resource/Male",
+        "ontology/portrayer": "http://dbpedia.org/resource/Eric_Millegan",
+        "ontology/creator": "http://dbpedia.org/resource/Hart_Hanson",
+        "ontology/series_label": "Bones (TV series)",
+        "ontology/gender_label": "Male"
+    },
+    {
+        "title": "Zack_Allan",
+        "ontology/species": "http://dbpedia.org/resource/Earth_Alliance_(Babylon_5)",
+        "ontology/series": "http://dbpedia.org/resource/Babylon_5",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": [
+            "http://dbpedia.org/resource/Sleeping_in_Light",
+            "http://dbpedia.org/resource/Babylon_5:_A_Call_to_Arms"
+        ],
+        "ontology/firstAppearance": "Spider in the Web",
+        "ontology/species_label": "Earth Alliance (Babylon 5)",
+        "ontology/lastAppearance_label": [
+            "Sleeping in Light",
+            "Babylon 5: A Call to Arms"
+        ],
+        "ontology/portrayer_label": "Jeff Conaway",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zack Allan",
+        "ontology/portrayer": "http://dbpedia.org/resource/Jeff_Conaway",
+        "ontology/series_label": "Babylon 5"
+    },
+    {
+        "title": "Zack_Martin_(Suite_Life)",
+        "ontology/series": [
+            "http://dbpedia.org/resource/The_Suite_Life_of_Zack_&_Cody",
+            "http://dbpedia.org/resource/The_Suite_Life_on_Deck"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/So_Random!",
+        "ontology/creator_label": "Danny Kallis",
+        "ontology/firstAppearance": "Hotel Hangout",
+        "ontology/lastAppearance_label": "So Random!",
+        "ontology/portrayer_label": "Dylan and Cole Sprouse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "The Suite Life on Deck",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zack Martin (Suite Life)",
+        "ontology/portrayer": "http://dbpedia.org/resource/Dylan_and_Cole_Sprouse",
+        "ontology/occupation": "http://dbpedia.org/resource/The_Suite_Life_on_Deck",
+        "ontology/creator": "http://dbpedia.org/resource/Danny_Kallis",
+        "ontology/relative": [
+            "http://dbpedia.org/resource/Cody_Martin",
+            "http://dbpedia.org/resource/Carey_Martin",
+            "http://dbpedia.org/resource/List_of_recurring_characters_in_The_Suite_Life_of_Zack_&_Cody"
+        ],
+        "ontology/series_label": [
+            "The Suite Life of Zack & Cody",
+            "The Suite Life on Deck"
+        ],
+        "ontology/relative_label": [
+            "Cody Martin",
+            "Carey Martin",
+            "List of recurring characters in The Suite Life of Zack & Cody"
+        ]
+    },
+    {
+        "title": "Zack_Morris",
+        "ontology/spouse_label": "List of Saved by the Bell characters",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "Summer Love (Good Morning Miss Bliss)",
+        "ontology/spouse": "http://dbpedia.org/resource/List_of_Saved_by_the_Bell_characters",
+        "ontology/portrayer_label": "Mark-Paul Gosselaar",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zack Morris",
+        "ontology/portrayer": "http://dbpedia.org/resource/Mark-Paul_Gosselaar",
+        "ontology/relative": "http://dbpedia.org/resource/Good_Morning,_Miss_Bliss",
+        "ontology/relative_label": "Good Morning Miss Bliss"
+    },
+    {
+        "title": "Zadkiel_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Jason Aaron",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zadkiel (comics)",
+        "ontology/creator": "http://dbpedia.org/resource/Jason_Aaron"
+    },
+    {
+        "title": "Zafar_Younis",
+        "ontology/series": "http://dbpedia.org/resource/Spooks",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/religion": "http://dbpedia.org/resource/Muslim",
+        "ontology/firstAppearance": "Series 3 Episode 10",
+        "ontology/portrayer_label": "Raza Jaffrey",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zafar Younis",
+        "ontology/portrayer": "http://dbpedia.org/resource/Raza_Jaffrey",
+        "ontology/religion_label": "Muslim",
+        "ontology/series_label": "Spooks"
+    },
+    {
+        "title": "Zago",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zago"
+    },
+    {
+        "title": "Zagor",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Gallieno Ferri",
+            "Sergio Bonelli"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zagor",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Gallieno_Ferri",
+            "http://dbpedia.org/resource/Sergio_Bonelli"
+        ]
+    },
+    {
+        "title": "Zaheer",
+        "ontology/series": [
+            "http://dbpedia.org/resource/Avatar:_The_Last_Airbender",
+            "http://dbpedia.org/resource/The_Legend_of_Korra"
+        ],
+        "ontology/voice": "http://dbpedia.org/resource/Henry_Rollins",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Bryan Konietzko",
+            "Michael Dante DiMartino"
+        ],
+        "ontology/firstAppearance": "A Breath of Fresh Air",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zaheer",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Bryan_Konietzko",
+            "http://dbpedia.org/resource/Michael_Dante_DiMartino"
+        ],
+        "ontology/voice_label": "Henry Rollins",
+        "ontology/series_label": [
+            "Avatar: The Last Airbender",
+            "The Legend of Korra"
+        ]
+    },
+    {
+        "title": "Zainab_Masood",
+        "ontology/televisionSeries_label": "EastEnders",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/EastEnders",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zainab Masood"
+    },
+    {
+        "title": "Zak_Adama",
+        "ontology/series": "http://dbpedia.org/resource/Battlestar_Galactica",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/portrayer_label": [
+            "Tobias Mehler",
+            "Clarke_Hudson"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zak Adama",
+        "ontology/portrayer": [
+            "http://dbpedia.org/resource/Tobias_Mehler",
+            "http://dbpedia.org/resource/Clarke_Hudson"
+        ],
+        "ontology/series_label": "Battlestar Galactica"
+    },
+    {
+        "title": "Zak_Dingle",
+        "ontology/televisionSeries_label": "Emmerdale",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Emmerdale",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zak Dingle"
+    },
+    {
+        "title": "Zak_Ramsey",
+        "ontology/televisionSeries_label": "Hollyoaks",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Hollyoaks",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zak Ramsey"
+    },
+    {
+        "title": "Zak_Silver",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Javier Hernandez (comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zak Silver",
+        "ontology/creator": "http://dbpedia.org/resource/Javier_Hernandez_(comics)"
+    },
+    {
+        "title": "Zakynthos_(person)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "mythological figure",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074",
+            "Q15410431"
+        ],
+        "ontology/mythology": "http://dbpedia.org/resource/Greek_mythology",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/MythologicalFigure",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074",
+            "http://www.wikidata.org/entity/Q15410431"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zakynthos (person)",
+        "ontology/mythology_label": "Greek mythology"
+    },
+    {
+        "title": "Zaladane",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Gerry Conway",
+            "Barry Windsor-Smith"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zaladane",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Gerry_Conway",
+            "http://dbpedia.org/resource/Barry_Windsor-Smith"
+        ]
+    },
+    {
+        "title": "Zampa_the_Lion",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "Mascot",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zampa the Lion",
+        "ontology/occupation": "http://dbpedia.org/resource/Mascot"
+    },
+    {
+        "title": "Zanclus",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "mythological figure",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074",
+            "Q15410431"
+        ],
+        "ontology/mythology": "http://dbpedia.org/resource/Greek_mythology",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/MythologicalFigure",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074",
+            "http://www.wikidata.org/entity/Q15410431"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zanclus",
+        "ontology/mythology_label": "Greek mythology"
+    },
+    {
+        "title": "Zankou",
+        "ontology/series": "http://dbpedia.org/resource/Charmed",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/Charmed_(season_7)",
+        "ontology/firstAppearance": "Witchness Protection",
+        "ontology/lastAppearance_label": "Charmed (season 7)",
+        "ontology/portrayer_label": "Oded Fehr",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zankou",
+        "ontology/portrayer": "http://dbpedia.org/resource/Oded_Fehr",
+        "ontology/series_label": "Charmed"
+    },
+    {
+        "title": "Zaphod_Beeblebrox",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Douglas Adams",
+        "ontology/firstAppearance": "Fit the Second (radio)",
+        "ontology/portrayer_label": [
+            "Tom Kenny",
+            "Mark Wing-Davey",
+            "Sam Rockwell"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zaphod Beeblebrox",
+        "ontology/portrayer": [
+            "http://dbpedia.org/resource/Tom_Kenny",
+            "http://dbpedia.org/resource/Mark_Wing-Davey",
+            "http://dbpedia.org/resource/Sam_Rockwell"
+        ],
+        "ontology/creator": "http://dbpedia.org/resource/Douglas_Adams",
+        "ontology/relative": "http://dbpedia.org/resource/Ford_Prefect_(character)",
+        "ontology/relative_label": "Ford Prefect (character)"
+    },
+    {
+        "title": "Zapp_Brannigan",
+        "ontology/series": "http://dbpedia.org/resource/Futurama",
+        "ontology/voice": "http://dbpedia.org/resource/Billy_West",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/Meanwhile_(Futurama)",
+        "ontology/firstAppearance": "Love's Labours Lost in Space",
+        "ontology/lastAppearance_label": "Meanwhile (Futurama)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zapp Brannigan",
+        "ontology/voice_label": "Billy West",
+        "ontology/series_label": "Futurama"
+    },
+    {
+        "title": "Zara_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "William Moulton Marston",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zara (comics)",
+        "ontology/creator": "http://dbpedia.org/resource/William_Moulton_Marston"
+    },
+    {
+        "title": "Zara_Carmichael",
+        "ontology/televisionSeries_label": "Doctors (TV series)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Doctors_(TV_series)",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zara Carmichael"
+    },
+    {
+        "title": "Zara_Morgan",
+        "ontology/televisionSeries_label": "Hollyoaks",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Hollyoaks",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zara Morgan"
+    },
+    {
+        "title": "Zaran",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Doug Moench",
+            "Paul Gulacy",
+            "Mike Zeck"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zaran",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Doug_Moench",
+            "http://dbpedia.org/resource/Paul_Gulacy",
+            "http://dbpedia.org/resource/Mike_Zeck"
+        ]
+    },
+    {
+        "title": "Zarathos",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Mike Ploog",
+            "Roy Thomas",
+            "Gary Friedrich"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zarathos",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Mike_Ploog",
+            "http://dbpedia.org/resource/Roy_Thomas",
+            "http://dbpedia.org/resource/Gary_Friedrich"
+        ]
+    },
+    {
+        "title": "Zarex",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "mythological figure",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074",
+            "Q15410431"
+        ],
+        "ontology/mythology": "http://dbpedia.org/resource/Greek_mythology",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/MythologicalFigure",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074",
+            "http://www.wikidata.org/entity/Q15410431"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zarex",
+        "ontology/mythology_label": "Greek mythology"
+    },
+    {
+        "title": "Zarrko",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Jack Kirby",
+            "Stan Lee"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zarrko",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Jack_Kirby",
+            "http://dbpedia.org/resource/Stan_Lee"
+        ]
+    },
+    {
+        "title": "Zatanna",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Gardner Fox",
+            "Murphy Anderson"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zatanna",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Gardner_Fox",
+            "http://dbpedia.org/resource/Murphy_Anderson"
+        ]
+    },
+    {
+        "title": "Zatara",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Fred Guardineer",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zatara",
+        "ontology/creator": "http://dbpedia.org/resource/Fred_Guardineer"
+    },
+    {
+        "title": "Zathras",
+        "ontology/series": "http://dbpedia.org/resource/Babylon_5",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": [
+            "http://dbpedia.org/resource/War_Without_End_(Babylon_5)",
+            "http://dbpedia.org/resource/Conflicts_of_Interest_(Babylon_5)"
+        ],
+        "ontology/firstAppearance": "Babylon Squared",
+        "ontology/lastAppearance_label": [
+            "War Without End (Babylon 5)",
+            "Conflicts of Interest (Babylon 5)"
+        ],
+        "ontology/portrayer_label": "Tim Choate",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zathras",
+        "ontology/portrayer": "http://dbpedia.org/resource/Tim_Choate",
+        "ontology/series_label": "Babylon 5"
+    },
+    {
+        "title": "Zatoichi",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": "http://dbpedia.org/resource/List_of_Zatoichi_episodes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/imdbId": "0363226",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zatoichi",
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso_label": "List of Zatoichi episodes"
+    },
+    {
+        "title": "Zauriel",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Grant Morrison",
+            "Mark Millar",
+            "Howard Porter",
+            "John_Dell"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zauriel",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Grant_Morrison",
+            "http://dbpedia.org/resource/Mark_Millar",
+            "http://dbpedia.org/resource/Howard_Porter",
+            "http://dbpedia.org/resource/John_Dell"
+        ]
+    },
+    {
+        "title": "Zaza_the_Mystic",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Charles Nicholas",
+            "Rocke Mastroserio",
+            "Joe Gill"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zaza the Mystic",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Charles_Nicholas",
+            "http://dbpedia.org/resource/Rocke_Mastroserio",
+            "http://dbpedia.org/resource/Joe_Gill"
+        ]
+    },
+    {
+        "title": "Zealot_(Marvel_Comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Brandon Peterson",
+            "Joe Pruett"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zealot (Marvel Comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Brandon_Peterson",
+            "http://dbpedia.org/resource/Joe_Pruett"
+        ]
+    },
+    {
+        "title": "Zealot_(Wildstorm)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Brandon Choi",
+            "Jim Lee"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zealot (Wildstorm)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Brandon_Choi",
+            "http://dbpedia.org/resource/Jim_Lee"
+        ]
+    },
+    {
+        "title": "Zebra-Man",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Paul Jenkins (writer)",
+            "David Finch (comics)",
+            "Mike W. Barr",
+            "Sheldon Moldoff",
+            "Bill Finger"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zebra-Man",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Paul_Jenkins_(writer)",
+            "http://dbpedia.org/resource/David_Finch_(comics)",
+            "http://dbpedia.org/resource/Mike_W._Barr",
+            "http://dbpedia.org/resource/Sheldon_Moldoff",
+            "http://dbpedia.org/resource/Bill_Finger"
+        ]
+    },
+    {
+        "title": "Zed_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "John Ridgway (comics)",
+            "Jamie Delano"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zed (comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/John_Ridgway_(comics)",
+            "http://dbpedia.org/resource/Jamie_Delano"
+        ]
+    },
+    {
+        "title": "Zeiss_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Ed Brubaker",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeiss (comics)",
+        "ontology/creator": "http://dbpedia.org/resource/Ed_Brubaker"
+    },
+    {
+        "title": "Zeitgeist_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Mike Allred",
+            "Peter Milligan"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeitgeist (comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Mike_Allred",
+            "http://dbpedia.org/resource/Peter_Milligan"
+        ]
+    },
+    {
+        "title": "Zeke_Kinski",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeke Kinski"
+    },
+    {
+        "title": "Zeke_Stane",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Matt Fraction",
+            "Barry Kitson"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeke Stane",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Matt_Fraction",
+            "http://dbpedia.org/resource/Barry_Kitson"
+        ]
+    },
+    {
+        "title": "Zelda_Spellman",
+        "ontology/spouse_label": "Middle Ages",
+        "ontology/nationality": "http://dbpedia.org/resource/United_States",
+        "ontology/series": "http://dbpedia.org/resource/Sabrina_the_Teenage_Witch",
+        "ontology/voice": [
+            "http://dbpedia.org/resource/Melissa_Joan_Hart",
+            "http://dbpedia.org/resource/Jane_Webb",
+            "http://dbpedia.org/resource/Erin_Mathews",
+            "http://dbpedia.org/resource/Tina_Bush"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "Archie's Mad House #65 (December 1968)",
+        "ontology/spouse": "http://dbpedia.org/resource/Middle_Ages",
+        "ontology/alias": [
+            "TV",
+            "Zerelda P. Spellman (sitcom; full name)"
+        ],
+        "ontology/portrayer_label": [
+            "Beth Broderick",
+            "Charlene Fernetz"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "Witchcraft",
+        "ontology/nationality_label": "United States",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zelda Spellman",
+        "ontology/portrayer": [
+            "http://dbpedia.org/resource/Beth_Broderick",
+            "http://dbpedia.org/resource/Charlene_Fernetz"
+        ],
+        "ontology/occupation": "http://dbpedia.org/resource/Witchcraft",
+        "ontology/relative": [
+            "http://dbpedia.org/resource/Sabrina_Spellman",
+            "http://dbpedia.org/resource/Hilda_Spellman"
+        ],
+        "ontology/voice_label": [
+            "Melissa Joan Hart",
+            "Jane Webb",
+            "Erin Mathews",
+            "Tina_Bush"
+        ],
+        "ontology/series_label": "Sabrina the Teenage Witch",
+        "ontology/relative_label": [
+            "Sabrina Spellman",
+            "Hilda Spellman"
+        ]
+    },
+    {
+        "title": "Zeleia",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "mythological figure",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074",
+            "Q15410431"
+        ],
+        "ontology/mythology": "http://dbpedia.org/resource/Greek_mythology",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/MythologicalFigure",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074",
+            "http://www.wikidata.org/entity/Q15410431"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeleia",
+        "ontology/mythology_label": "Greek mythology"
+    },
+    {
+        "title": "Zelena_(Once_Upon_a_Time)",
+        "ontology/series": "http://dbpedia.org/resource/Once_Upon_a_Time_(TV_series)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Adam Horowitz",
+        "ontology/firstAppearance": "New York City Serenade",
+        "ontology/alias": [
+            "Ariel",
+            "Maid Marian",
+            "Wicked Witch"
+        ],
+        "ontology/portrayer_label": [
+            "Rebecca Mader",
+            "Isabella Blake-Thomas"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zelena (Once Upon a Time)",
+        "ontology/portrayer": [
+            "http://dbpedia.org/resource/Rebecca_Mader",
+            "http://dbpedia.org/resource/Isabella_Blake-Thomas"
+        ],
+        "ontology/creator": "http://dbpedia.org/resource/Adam_Horowitz",
+        "ontology/relative": [
+            "http://dbpedia.org/resource/Henry_Mills_(Once_Upon_a_Time)",
+            "http://dbpedia.org/resource/Regina_Mills"
+        ],
+        "ontology/series_label": "Once Upon a Time (TV series)",
+        "ontology/relative_label": [
+            "Henry Mills (Once Upon a Time)",
+            "Regina Mills"
+        ]
+    },
+    {
+        "title": "Zen_(Blake's_7)",
+        "ontology/series": "http://dbpedia.org/resource/Blake's_7",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "Cygnus Alpha",
+        "ontology/portrayer_label": [
+            "Peter Tuddenham",
+            "Alistair_Lock"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zen (Blake's 7)",
+        "ontology/portrayer": [
+            "http://dbpedia.org/resource/Peter_Tuddenham",
+            "http://dbpedia.org/resource/Alistair_Lock"
+        ],
+        "ontology/series_label": "Blake's 7"
+    },
+    {
+        "title": "Zen_the_Intergalactic_Ninja",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zen the Intergalactic Ninja"
+    },
+    {
+        "title": "Zera_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Todd McFarlane",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zera (comics)",
+        "ontology/creator": "http://dbpedia.org/resource/Todd_McFarlane"
+    },
+    {
+        "title": "Zero_(Marvel_Comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Louise Simonson",
+            "Rob Liefeld"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zero (Marvel Comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Louise_Simonson",
+            "http://dbpedia.org/resource/Rob_Liefeld"
+        ]
+    },
+    {
+        "title": "Zeus_(DC_Comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "George P\u00e9rez",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeus (DC Comics)",
+        "ontology/creator": "http://dbpedia.org/resource/George_P\u00e9rez"
+    },
+    {
+        "title": "Zeus_(Marvel_Comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Jack Kirby",
+            "Stan Lee"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeus (Marvel Comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Jack_Kirby",
+            "http://dbpedia.org/resource/Stan_Lee"
+        ]
+    },
+    {
+        "title": "Zeuxippe",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "mythological figure",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074",
+            "Q15410431"
+        ],
+        "ontology/mythology": "http://dbpedia.org/resource/Greek_mythology",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/MythologicalFigure",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074",
+            "http://www.wikidata.org/entity/Q15410431"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeuxippe",
+        "ontology/mythology_label": "Greek mythology"
+    },
+    {
+        "title": "Zeuxippus_(mythology)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "mythological figure",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074",
+            "Q15410431"
+        ],
+        "ontology/mythology": "http://dbpedia.org/resource/Greek_mythology",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/MythologicalFigure",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074",
+            "http://www.wikidata.org/entity/Q15410431"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeuxippus (mythology)",
+        "ontology/mythology_label": "Greek mythology"
+    },
+    {
+        "title": "Zeuxo_(Greek_mythology)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "mythological figure",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074",
+            "Q15410431"
+        ],
+        "ontology/mythology": "http://dbpedia.org/resource/Greek_mythology",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/MythologicalFigure",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074",
+            "http://www.wikidata.org/entity/Q15410431"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zeuxo (Greek mythology)",
+        "ontology/mythology_label": "Greek mythology"
+    },
+    {
+        "title": "Zev_Bellringer",
+        "ontology/series": "http://dbpedia.org/resource/Lexx",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Paul Donovan (writer)",
+        "ontology/firstAppearance": [
+            "I Worship His Shadow",
+            "Lyekka"
+        ],
+        "ontology/portrayer_label": [
+            "Xenia Seeberg",
+            "Eva Habermann",
+            "Lisa_Hines_(actor)"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zev Bellringer",
+        "ontology/portrayer": [
+            "http://dbpedia.org/resource/Xenia_Seeberg",
+            "http://dbpedia.org/resource/Eva_Habermann",
+            "http://dbpedia.org/resource/Lisa_Hines_(actor)"
+        ],
+        "ontology/creator": "http://dbpedia.org/resource/Paul_Donovan_(writer)",
+        "ontology/series_label": "Lexx"
+    },
+    {
+        "title": "Zhang_Feng_(Fengshen_Yanyi)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zhang Feng (Fengshen Yanyi)"
+    },
+    {
+        "title": "Zhang_Guifang",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zhang Guifang"
+    },
+    {
+        "title": "Zhao_Qi_(Fengshen_Yanyi)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zhao Qi (Fengshen Yanyi)"
+    },
+    {
+        "title": "Zheng_Lun_(Fengshen_Yanyi)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zheng Lun (Fengshen Yanyi)"
+    },
+    {
+        "title": "Zhou_Cang",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zhou Cang"
+    },
+    {
+        "title": "Zig_and_Zag_(puppets)",
+        "ontology/series": "http://dbpedia.org/resource/The_Den_(Ireland)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "Dempsey's Den 1987",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zig and Zag (puppets)",
+        "ontology/series_label": "The Den (Ireland)"
+    },
+    {
+        "title": "Ziggy_Pig_and_Silly_Seal",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Al Jaffee",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Ziggy Pig and Silly Seal",
+        "ontology/creator": "http://dbpedia.org/resource/Al_Jaffee"
+    },
+    {
+        "title": "Ziggy_Sobotka",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/Port_in_a_Storm",
+        "ontology/creator_label": "David Simon",
+        "ontology/firstAppearance": "Ebb Tide (episode 2.01)",
+        "ontology/alias": "Ziggy",
+        "ontology/lastAppearance_label": "Port in a Storm",
+        "ontology/portrayer_label": "James Ransone",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Ziggy Sobotka",
+        "ontology/portrayer": "http://dbpedia.org/resource/James_Ransone",
+        "ontology/creator": "http://dbpedia.org/resource/David_Simon",
+        "ontology/relative": [
+            "http://dbpedia.org/resource/Frank_Sobotka",
+            "http://dbpedia.org/resource/Nick_Sobotka"
+        ],
+        "ontology/relative_label": [
+            "Frank Sobotka",
+            "Nick Sobotka"
+        ]
+    },
+    {
+        "title": "Zigomar_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zigomar (comics)"
+    },
+    {
+        "title": "Zilla_(Toho)",
+        "ontology/series": "http://dbpedia.org/resource/Godzilla_(franchise)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/Godzilla:_Final_Wars",
+        "ontology/creator_label": [
+            "Roland Emmerich",
+            "Dean Devlin",
+            "Patrick Tatopoulos"
+        ],
+        "ontology/firstAppearance": "Godzilla (as Godzilla)",
+        "ontology/alias": [
+            "Godzilla",
+            "Godzilla-USA"
+        ],
+        "ontology/lastAppearance_label": "Godzilla: Final Wars",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zilla (Toho)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Roland_Emmerich",
+            "http://dbpedia.org/resource/Dean_Devlin",
+            "http://dbpedia.org/resource/Patrick_Tatopoulos"
+        ],
+        "ontology/series_label": "Godzilla (franchise)"
+    },
+    {
+        "title": "Zippy_(Rainbow)",
+        "ontology/series": "http://dbpedia.org/resource/Rainbow_(TV_series)",
+        "ontology/voice": [
+            "http://dbpedia.org/resource/Peter_Hawkins",
+            "http://dbpedia.org/resource/Roy_Skelton"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "1972",
+        "ontology/portrayer_label": "Ronnie Le Drew",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zippy (Rainbow)",
+        "ontology/portrayer": "http://dbpedia.org/resource/Ronnie_Le_Drew",
+        "ontology/voice_label": [
+            "Peter Hawkins",
+            "Roy Skelton"
+        ],
+        "ontology/series_label": "Rainbow (TV series)"
+    },
+    {
+        "title": "Ziva_David",
+        "ontology/nationality": "http://dbpedia.org/resource/Israel",
+        "ontology/series": "http://dbpedia.org/resource/NCIS_(TV_series)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/Past,_Present,_and_Future_(NCIS)",
+        "ontology/creator_label": "Donald P. Bellisario",
+        "ontology/religion": "http://dbpedia.org/resource/Judaism",
+        "ontology/firstAppearance": "Kill Ari (Part 1)",
+        "ontology/lastAppearance_label": "Past Present and Future (NCIS)",
+        "ontology/portrayer_label": "Cote de Pablo",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": [
+            "Israel Defense Forces",
+            "Mossad",
+            "Naval Criminal Investigative Service",
+            "Special agent",
+            "Agent handling"
+        ],
+        "ontology/nationality_label": "Israel",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Ziva David",
+        "ontology/portrayer": "http://dbpedia.org/resource/Cote_de_Pablo",
+        "ontology/occupation": [
+            "http://dbpedia.org/resource/Israel_Defense_Forces",
+            "http://dbpedia.org/resource/Mossad",
+            "http://dbpedia.org/resource/Naval_Criminal_Investigative_Service",
+            "http://dbpedia.org/resource/Special_agent",
+            "http://dbpedia.org/resource/Agent_handling"
+        ],
+        "ontology/religion_label": "Judaism",
+        "ontology/creator": "http://dbpedia.org/resource/Donald_P._Bellisario",
+        "ontology/relative": "http://dbpedia.org/resource/List_of_NCIS_characters",
+        "ontology/series_label": "NCIS (TV series)",
+        "ontology/relative_label": "List of NCIS characters"
+    },
+    {
+        "title": "Zod_(Gobots)",
+        "ontology/series": [
+            "http://dbpedia.org/resource/Challenge_of_the_GoBots",
+            "http://dbpedia.org/resource/Robo_Machine"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "The Battle for Gobotron",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zod (Gobots)",
+        "ontology/series_label": [
+            "Challenge of the GoBots",
+            "Robo Machine"
+        ]
+    },
+    {
+        "title": "Zodac",
+        "ontology/series": "http://dbpedia.org/resource/Masters_of_the_Universe",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Mattel",
+        "ontology/alias": "Zodac:Zodac Zur; Zodak:Kar-Tor",
+        "ontology/portrayer_label": [
+            "Christopher Judge",
+            "Lou Scheimer"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zodac",
+        "ontology/portrayer": [
+            "http://dbpedia.org/resource/Christopher_Judge",
+            "http://dbpedia.org/resource/Lou_Scheimer"
+        ],
+        "ontology/creator": "http://dbpedia.org/resource/Mattel",
+        "ontology/series_label": "Masters of the Universe"
+    },
+    {
+        "title": "Zoe_(All_My_Children)",
+        "ontology/televisionSeries_label": "All My Children",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/All_My_Children",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe (All My Children)"
+    },
+    {
+        "title": "Zoe_(Sesame_Street)",
+        "ontology/series": "http://dbpedia.org/resource/Sesame_Street",
+        "ontology/voice": [
+            "http://dbpedia.org/resource/Fran_Brill",
+            "http://dbpedia.org/resource/Jennifer_Barnhart"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "1993",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe (Sesame Street)",
+        "ontology/voice_label": [
+            "Fran Brill",
+            "Jennifer Barnhart"
+        ],
+        "ontology/series_label": "Sesame Street"
+    },
+    {
+        "title": "Zoe_Carpenter",
+        "ontology/televisionSeries_label": "Hollyoaks",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Hollyoaks",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe Carpenter"
+    },
+    {
+        "title": "Zoe_Davis",
+        "ontology/televisionSeries_label": "Neighbours",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Neighbours",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe Davis"
+    },
+    {
+        "title": "Zoe_Graystone",
+        "ontology/series": "http://dbpedia.org/resource/Caprica",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "Caprica",
+        "ontology/portrayer_label": "Alessandra Torresani",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe Graystone",
+        "ontology/portrayer": "http://dbpedia.org/resource/Alessandra_Torresani",
+        "ontology/series_label": "Caprica"
+    },
+    {
+        "title": "Zoe_Hanna",
+        "ontology/spouse_label": "Characters of Casualty",
+        "ontology/series": "http://dbpedia.org/resource/Casualty_(TV_series)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": [
+            "Take a Cup of Kindness",
+            "29 December 2007"
+        ],
+        "ontology/spouse": "http://dbpedia.org/resource/Characters_of_Casualty",
+        "ontology/portrayer_label": "Sunetra Sarker",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe Hanna",
+        "ontology/portrayer": "http://dbpedia.org/resource/Sunetra_Sarker",
+        "ontology/series_label": "Casualty (TV series)"
+    },
+    {
+        "title": "Zoe_Reynolds",
+        "ontology/spouse_label": "Engagement",
+        "ontology/series": "http://dbpedia.org/resource/Spooks",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": "Series 1 Episode 1",
+        "ontology/spouse": "http://dbpedia.org/resource/Engagement",
+        "ontology/portrayer_label": "Keeley Hawes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe Reynolds",
+        "ontology/portrayer": "http://dbpedia.org/resource/Keeley_Hawes",
+        "ontology/series_label": "Spooks"
+    },
+    {
+        "title": "Zoe_Slater",
+        "ontology/televisionSeries_label": "EastEnders",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/EastEnders",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe Slater"
+    },
+    {
+        "title": "Zoe_Tate",
+        "ontology/televisionSeries_label": "Emmerdale",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Emmerdale",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoe Tate"
+    },
+    {
+        "title": "Zoey_Bartlet",
+        "ontology/spouse_label": "Charlie Young",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/The_West_Wing_(season_7)",
+        "ontology/creator_label": "Aaron Sorkin",
+        "ontology/firstAppearance": "The Crackpots and These Women",
+        "ontology/spouse": "http://dbpedia.org/resource/Charlie_Young",
+        "ontology/lastAppearance_label": "The West Wing (season 7)",
+        "ontology/portrayer_label": "Elisabeth Moss",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "Georgetown University",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoey Bartlet",
+        "ontology/portrayer": "http://dbpedia.org/resource/Elisabeth_Moss",
+        "ontology/occupation": "http://dbpedia.org/resource/Georgetown_University",
+        "ontology/creator": "http://dbpedia.org/resource/Aaron_Sorkin",
+        "ontology/relative": [
+            "http://dbpedia.org/resource/Josiah_Bartlet",
+            "http://dbpedia.org/resource/Abbey_Bartlet",
+            "http://dbpedia.org/resource/Eleanor_Bartlet",
+            "http://dbpedia.org/resource/List_of_The_West_Wing_characters"
+        ],
+        "ontology/relative_label": [
+            "Josiah Bartlet",
+            "Abbey Bartlet",
+            "Eleanor Bartlet",
+            "List of The West Wing characters"
+        ]
+    },
+    {
+        "title": "Zoidberg",
+        "ontology/series": "http://dbpedia.org/resource/Futurama",
+        "ontology/voice": "http://dbpedia.org/resource/Billy_West",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/lastAppearance": "http://dbpedia.org/resource/Simpsorama",
+        "ontology/firstAppearance": "The Series Has Landed",
+        "ontology/lastAppearance_label": "Simpsorama",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "Futurama",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoidberg",
+        "ontology/occupation": "http://dbpedia.org/resource/Futurama",
+        "ontology/relative": "http://dbpedia.org/resource/That's_Lobstertainment!",
+        "ontology/voice_label": "Billy West",
+        "ontology/series_label": "Futurama",
+        "ontology/relative_label": "That's Lobstertainment!"
+    },
+    {
+        "title": "Zoila_Diaz",
+        "ontology/televisionSeries_label": "Devious Maids",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/Devious_Maids",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zoila Diaz"
+    },
+    {
+        "title": "Zola_(DC_Comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Cliff Chiang",
+            "Brian Azzarello"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zola (DC Comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Cliff_Chiang",
+            "http://dbpedia.org/resource/Brian_Azzarello"
+        ]
+    },
+    {
+        "title": "Zom",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Marie Severin",
+            "Stan Lee"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zom",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Marie_Severin",
+            "http://dbpedia.org/resource/Stan_Lee"
+        ]
+    },
+    {
+        "title": "Zombie_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Bill Everett",
+            "Stan Lee"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zombie (comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Bill_Everett",
+            "http://dbpedia.org/resource/Stan_Lee"
+        ]
+    },
+    {
+        "title": "Zook_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zook (comics)"
+    },
+    {
+        "title": "Zookeeper_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Geoff Johns",
+            "Tom Grummett"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zookeeper (comics)",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Geoff_Johns",
+            "http://dbpedia.org/resource/Tom_Grummett"
+        ]
+    },
+    {
+        "title": "Zor-El",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Otto Binder",
+            "Al Plastino"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zor-El",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Otto_Binder",
+            "http://dbpedia.org/resource/Al_Plastino"
+        ]
+    },
+    {
+        "title": "Zorak",
+        "ontology/voice": [
+            "http://dbpedia.org/resource/Don_Messick",
+            "http://dbpedia.org/resource/C._Martin_Croker"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "William Hanna",
+            "Alex Toth",
+            "Joseph Barbera"
+        ],
+        "ontology/firstAppearance": "Zorak (Space Ghost segment)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "Bandleader",
+        "http://www.w3.org/2002/07/owl#differentFrom": "http://dbpedia.org/resource/Dzorak",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zorak",
+        "http://www.w3.org/2002/07/owl#differentFrom_label": "Dzorak",
+        "ontology/occupation": "http://dbpedia.org/resource/Bandleader",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/William_Hanna",
+            "http://dbpedia.org/resource/Alex_Toth",
+            "http://dbpedia.org/resource/Joseph_Barbera"
+        ],
+        "ontology/voice_label": [
+            "Don Messick",
+            "C. Martin Croker"
+        ]
+    },
+    {
+        "title": "Zorro",
+        "ontology/nationality": "http://dbpedia.org/resource/Mexico",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Johnston McCulley",
+        "ontology/firstAppearance": "All-Story Weekly (August 1919)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/nationality_label": "Mexico",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zorro",
+        "ontology/creator": "http://dbpedia.org/resource/Johnston_McCulley"
+    },
+    {
+        "title": "Zosia_March",
+        "ontology/series": "http://dbpedia.org/resource/Holby_City",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/firstAppearance": [
+            "The Kick Inside",
+            "10 September 2013"
+        ],
+        "ontology/portrayer_label": "Camilla Arfwedson",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/occupation_label": "Foundation Programme",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zosia March",
+        "ontology/portrayer": "http://dbpedia.org/resource/Camilla_Arfwedson",
+        "ontology/occupation": "http://dbpedia.org/resource/Foundation_Programme",
+        "ontology/relative": "http://dbpedia.org/resource/Guy_Self",
+        "ontology/series_label": "Holby City",
+        "ontology/relative_label": "Guy Self"
+    },
+    {
+        "title": "Zota",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Steve Ditko",
+            "Stan Lee"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": "http://dbpedia.org/resource/List_of_Marvel_Comics_characters:_Z",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zota",
+        "http://www.w3.org/2002/07/owl#differentFrom_label": "List of Marvel Comics characters: Z",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Steve_Ditko",
+            "http://dbpedia.org/resource/Stan_Lee"
+        ]
+    },
+    {
+        "title": "Zsa_Zsa_Carter",
+        "ontology/televisionSeries_label": "EastEnders",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "soap character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/SoapCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/televisionSeries": "http://dbpedia.org/resource/EastEnders",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zsa Zsa Carter"
+    },
+    {
+        "title": "Zsazsa_Zaturnnah",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Carlo Vergara",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zsazsa Zaturnnah",
+        "ontology/creator": "http://dbpedia.org/resource/Carlo_Vergara"
+    },
+    {
+        "title": "Zuko",
+        "ontology/nationality": "http://dbpedia.org/resource/Avatar:_The_Last_Airbender",
+        "ontology/series": [
+            "http://dbpedia.org/resource/Avatar:_The_Last_Airbender",
+            "http://dbpedia.org/resource/The_Legend_of_Korra"
+        ],
+        "ontology/voice": [
+            "http://dbpedia.org/resource/Bruce_Davison",
+            "http://dbpedia.org/resource/Avatar:_The_Last_Airbender",
+            "http://dbpedia.org/resource/Dante_Basco",
+            "http://dbpedia.org/resource/Dev_Patel",
+            "http://dbpedia.org/resource/The_Last_Airbender_(video_game)",
+            "http://dbpedia.org/resource/The_Legend_of_Korra"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Bryan Konietzko",
+            "Michael Dante DiMartino"
+        ],
+        "ontology/firstAppearance": "The Boy in the Iceberg Book 1 Chapter 1",
+        "ontology/alias": [
+            "Prince Zuko",
+            "The Blue Spirit (alter ego)",
+            "Lee (refugee alias)",
+            "Junior (refugee alias)",
+            "Fire Lord Zuko",
+            "Lord Zuko",
+            "Zuzu"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "ontology/nationality_label": "Avatar: The Last Airbender",
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zuko",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Bryan_Konietzko",
+            "http://dbpedia.org/resource/Michael_Dante_DiMartino"
+        ],
+        "ontology/relative": [
+            "http://dbpedia.org/resource/Iroh",
+            "http://dbpedia.org/resource/Azula",
+            "http://dbpedia.org/resource/List_of_Avatar:_The_Last_Airbender_characters",
+            "http://dbpedia.org/resource/Affinity_(law)",
+            "http://dbpedia.org/resource/Kinship_care"
+        ],
+        "ontology/voice_label": [
+            "Bruce Davison",
+            "Avatar: The Last Airbender",
+            "Dante Basco",
+            "Dev Patel",
+            "The Last Airbender (video game)",
+            "The Legend of Korra"
+        ],
+        "ontology/series_label": [
+            "Avatar: The Last Airbender",
+            "The Legend of Korra"
+        ],
+        "ontology/relative_label": [
+            "Iroh",
+            "Azula",
+            "List of Avatar: The Last Airbender characters",
+            "Affinity (law)",
+            "Kinship care"
+        ]
+    },
+    {
+        "title": "Zuma_(comics)",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": "Jim Fernandez",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zuma (comics)",
+        "ontology/creator": "http://dbpedia.org/resource/Jim_Fernandez"
+    },
+    {
+        "title": "Zzzax",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type_label": [
+            "owl#Thing",
+            "person",
+            "fictional character",
+            "comics character",
+            "Q5",
+            "Person",
+            "Q215627",
+            "DUL.owl#NaturalPerson",
+            "agent",
+            "DUL.owl#Agent",
+            "Q95074"
+        ],
+        "ontology/creator_label": [
+            "Steve Englehart",
+            "Herb Trimpe"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            "http://www.w3.org/2002/07/owl#Thing",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://www.wikidata.org/entity/Q5",
+            "http://xmlns.com/foaf/0.1/Person",
+            "http://schema.org/Person",
+            "http://www.wikidata.org/entity/Q215627",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+            "http://dbpedia.org/ontology/Agent",
+            "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+            "http://www.wikidata.org/entity/Q95074"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": "Zzzax",
+        "ontology/creator": [
+            "http://dbpedia.org/resource/Steve_Englehart",
+            "http://dbpedia.org/resource/Herb_Trimpe"
+        ]
+    }
+]

@@ -41,4 +41,4 @@ for content in contents:
                     if 'fictional character'in list:
                         character.append(content)
 print(character)
-            
+
