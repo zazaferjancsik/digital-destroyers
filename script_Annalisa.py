@@ -17,5 +17,9 @@ for letter in filter_by_fic_character:
 for character in filtered_dictionaryCHARAC_GEN:
     print(filtered_dictionaryCHARAC_GEN[character]["ontology/gender"])
 
-
+with open('title.basics.tsv') as file:          #opening csv file
+    for character in filtered_dictionary:
+        for line in file:
+            if line.split('\t')[2] == filtered_dictionary[character]['ontology/firstAppearance']:
+                filtered_dictionary[character]['start_year'] = line[5]
 
