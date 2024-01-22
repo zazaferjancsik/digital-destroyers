@@ -1,6 +1,14 @@
-# import and open to read json file (DBpeople filtered for fictional characters)
+# FIRST --> do current representation,
+# LATER --> split up for bias etc, when it appeared
+# current representation: fictional characters, gender, csv, R, visualisations
+
+
+#import and open to read json file (DBpeople filtered for fictional characters)
 
 import json
+
+
+
 
 with open() as filtered_json:
     filter_by_fic_character = filtered_json.read()
