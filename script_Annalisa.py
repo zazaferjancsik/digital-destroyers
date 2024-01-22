@@ -16,8 +16,8 @@ filtered_dictionaryCHARAC_GEN= {}
 for letter in filter_by_fic_character:
     for character in letter:
 # json file specifies per ontology/gender so filter for this in the filtered dictionary
-        if "ontology/gender" in filter_by_fic_character[letter][character]:
-            filtered_dictionaryCHARAC_GEN[character] =  filter_by_fic_character[letter][character]
+        if "ontology/gender" in character:
+            filtered_dictionaryCHARAC_GEN[character] =  character
 # only want Male/Female for gender specification so split by /
             filtered_dictionaryCHARAC_GEN[character]["ontology/gender" ].split("/")
 # only want last entry so reverse (Male/Female appears last in gender ontology)
