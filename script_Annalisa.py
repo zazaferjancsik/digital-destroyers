@@ -55,7 +55,7 @@ with open('dictionary_fictional_characters_gender.csv', 'w', newline='') as file
         writer.writerow(item)
     
 
-                # filtered_dictionary_CHARAC_GEN_FOR_CSV['gender'] = filtered_dictionaryCHARAC_GEN[letter['ontology/gender']]
+# filtered_dictionary_CHARAC_GEN_FOR_CSV['gender'] = filtered_dictionaryCHARAC_GEN[letter['ontology/gender']]
 # only want last entry so reverse (Male/Female appears last in gender ontology)
        
 for character in filtered_dictionaryCHARAC_GEN:
