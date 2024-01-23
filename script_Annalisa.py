@@ -7,9 +7,6 @@
 
 import json
 
-
-
-
 with open('filtered_characters.json', encoding='utf-8') as filtered_json:
     filter_by_fic_character = json.load(filtered_json)
 
