@@ -1,9 +1,8 @@
 library(tidyverse)
 library(readr)
 library(ggplot2)
-library(stringr)
 
-character_years <- read_csv("fictional_character_years.csv")
+character_years <- read_csv("dictionary_fictional_character_years.csv")
 
 ggplot(data = character_year, aes(x=year, y=gender,  fill = gender)) +
   geom_point() +
