@@ -17,15 +17,30 @@ for letter in filter_by_fic_character:
     for character in letter:
 # json file specifies per ontology/gender so filter for this in the filtered dictionary
         if "ontology/gender" in character:
-            filtered_dictionaryCHARAC_GEN[letter['title']] = letter
+            if type(letter[character]) == list and character != 'ontology/gender_label':
+                # letter['ontology/gender'] = letter['ontology/gender'].split("/")
+                # letter['ontology/gender'] = letter['ontology/gender'].reverse
+                # print(letter['ontology/gender'])
+                for gender in [0, len(letter[character])-1]:
+                    name = letter['title'].split('_')
+                    filtered_dictionaryCHARAC_GEN[name[gender*2]] = letter.copy()
+                    filtered_dictionaryCHARAC_GEN[name[gender*2]][character] = letter[character][gender]
+                    filtered_dictionaryCHARAC_GEN[name[gender*2]]['ontology/gender'] = filtered_dictionaryCHARAC_GEN[name[gender*2]]["ontology/gender" ].split("/")
+# only want last entry so reverse (Male/Female appears last in gender ontology)
+                    filtered_dictionaryCHARAC_GEN[name[gender*2]]["ontology/gender" ].reverse()
+                    filtered_dictionaryCHARAC_GEN[name[gender*2]]["ontology/gender" ] =   filtered_dictionaryCHARAC_GEN[name[gender*2]]["ontology/gender" ][0]
+            elif type(letter[character]) == list and character == 'ontology/gender_label':
+                pass
+            else:
+                filtered_dictionaryCHARAC_GEN[letter['title']] = letter
 # only want Male/Female for gender specification so split by /
         # if type(filtered_dictionaryCHARAC_GEN[letter['title']]['ontology/gender']) == list:
         #     for i in 
-            filtered_dictionaryCHARAC_GEN[letter['title']]['ontology/gender'] = filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ].split("/")
+                filtered_dictionaryCHARAC_GEN[letter['title']]['ontology/gender'] = filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ].split("/")
 # only want last entry so reverse (Male/Female appears last in gender ontology)
-            filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ].reverse()
-            filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ] =   filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ][0]
-            print(filtered_dictionaryCHARAC_GEN)
+                filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ].reverse()
+                filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ] =   filtered_dictionaryCHARAC_GEN[letter['title']]["ontology/gender" ][0]
+                print(filtered_dictionaryCHARAC_GEN)
 
 # for character in filtered_dictionaryCHARAC_GEN:
 #     print(filtered_dictionaryCHARAC_GEN[character]["ontology/gender"])
