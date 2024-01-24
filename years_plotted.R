@@ -25,7 +25,7 @@ percentage <- number |>
   group_by(gender) |>
   summarize(sum(n))
 
-ggplot(data = character_years)+ 
+ggplot(data = number)+ 
   aes(x=start_year,y = n, color = gender) +
   geom_point() +
   theme_minimal()+
