@@ -22,7 +22,7 @@ percentage <- filtered_years |>
   count(wt = NULL,sort = FALSE)
 
 ggplot(data = character_years)+ 
-  aes(x=start_year,y = , color = gender) +
+  aes(x=start_year,y = n, color = gender) +
   geom_point(mapping = ) +
   theme_minimal()+
   labs(title ='Gender Ratio Over the Years')+
