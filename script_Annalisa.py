@@ -50,7 +50,7 @@ with open('title.basics.tsv') as file:
         for character in filtered_dictionaryCHARAC_GEN:
 # if the name is the same for line in the imdb dataset to the name of item in DBpeople file, add the start year for the item to the dictionary made for the fictional characters
             if 'ontology/firstAppearance' in filtered_dictionaryCHARAC_GEN[character]:
-                if line.split('\\t')[2] == filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']:
+                if line.split('\t')[2] == filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']:
                     if line.split('\t')[5] != '\\N':
                         filtered_dictionaryCHARAC_GEN[character]['start_year'] = int(line.split('\t')[5])
                         print("Done for "+str(filtered_dictionaryCHARAC_GEN[character]['title'])+ " line: "+ str(count))
