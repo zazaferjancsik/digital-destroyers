@@ -16,14 +16,20 @@ filtered_years <- character_years|>
   filter(gender == 'Male'| gender== 'Female'| gender == 'Intersex') |>
   unique() 
 
-percentage <- filtered_years |>
+number <- filtered_years |>
   ungroup() |>
   group_by(gender,start_year) |>
-  count(wt = NULL,sort = FALSE)
+  count(wt = NULL,sort = FALSE) |>
+  print()
 
-ggplot(data = character_years)+ 
+percentage <- number |>
+  arrange(start_year) |>
+  group_by(gender) |>
+  summarize(sum(n))
+  
+ggplot(data = percentage)+ 
   aes(x=start_year,y = n, color = gender) +
-  geom_point(mapping = ) +
+  geom_point() +
   theme_minimal()+
   labs(title ='Gender Ratio Over the Years')+
   xlab('Year') +

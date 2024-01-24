@@ -66,8 +66,6 @@ for character in filtered_dictionaryCHARAC_GEN:
                         start_year_dictionary[appearance] = {}
                         start_year_dictionary[appearance]['title'] = character
                         break
-            if 'start_year' not in filtered_dictionaryCHARAC_GEN[character]:
-                filtered_dictionaryCHARAC_GEN[character]['start_year'] = 'NA'
         else:
             matches  = re.search('[12][0-9]{3}', filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance'])
             if matches is not None:
@@ -76,33 +74,30 @@ for character in filtered_dictionaryCHARAC_GEN:
                 if filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance'] not in unrealfirstappearance:
                     start_year_dictionary[filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']] = {}
                     start_year_dictionary[filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']]['title'] = character
-                else:
-                    filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance'] = 'NA'
+                
+for character in filtered_dictionaryCHARAC_GEN:
+    filtered_dictionaryCHARAC_GEN[character]['start_year'] = 3000
 
-# count = 0
-# with open('title.basics.tsv') as file:         
-#     for line in file:
-#         for title in start_year_dictionary:
-# # if the name is the same for line in the imdb dataset to the name of item in DBpeople file, add the start year for the item to the dictionary made for the fictional characters
-#             if line.split('\t')[2] in start_year_dictionary:
-#                  if line.split('\t')[5] != '\\N':
-#                     filtered_dictionaryCHARAC_GEN[start_year_dictionary[title]['title']]['start_year'] = int(line.split('\t')[5])
-#                     print("Done for "+str(filtered_dictionaryCHARAC_GEN[character]['title'])+ " line: "+ str(count))
-#         count += 1
+count = 0
+with open('title.basics.tsv') as file:         
+    for line in file:
+        if line.split('\t')[2] in start_year_dictionary:
+            if line.split('\t')[5] != '\\N':
+                if int(line.split('\t')[5]) < int(filtered_dictionaryCHARAC_GEN[start_year_dictionary[line.split('\t')[2]]['title']]['start_year']):
+                    filtered_dictionaryCHARAC_GEN[start_year_dictionary[line.split('\t')[2]]['title']]['start_year'] = int(line.split('\t')[5])
+                print("Done for "+str(start_year_dictionary[line.split('\t')[2]]['title'])+ 'year: '+  str(line.split('\t')[5])+" line: "+ str(count))
+        count += 1
 
 for character in filtered_dictionaryCHARAC_GEN:
-    if 'start_year' in filtered_dictionaryCHARAC_GEN[character]:
-        filtered_dictionary_CHARAC_GEN_FOR_CSV.append({
-            'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
-            'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
-            'start_year': filtered_dictionaryCHARAC_GEN[character]['start_year']
-            })
-    else:
-        filtered_dictionary_CHARAC_GEN_FOR_CSV.append({
-            'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
-            'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
-            'start_year': 'NA'
-            })
+    if filtered_dictionaryCHARAC_GEN[character]['start_year'] == 3000:
+        filtered_dictionaryCHARAC_GEN[character]['start_year'] = 'NA'
+
+for character in filtered_dictionaryCHARAC_GEN:
+    filtered_dictionary_CHARAC_GEN_FOR_CSV.append({
+        'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
+        'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
+        'start_year': filtered_dictionaryCHARAC_GEN[character]['start_year']
+    })
 import csv
 
 with open('dictionary_fictional_characters_gender.csv', 'w', newline='') as file:
