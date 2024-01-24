@@ -79,16 +79,16 @@ for character in filtered_dictionaryCHARAC_GEN:
                 else:
                     filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance'] = 'NA'
 
-# count = 0
-# with open('title.basics.tsv') as file:         
-#     for line in file:
-#         for title in start_year_dictionary:
-# # if the name is the same for line in the imdb dataset to the name of item in DBpeople file, add the start year for the item to the dictionary made for the fictional characters
-#             if line.split('\t')[2] in start_year_dictionary:
-#                  if line.split('\t')[5] != '\\N':
-#                     filtered_dictionaryCHARAC_GEN[start_year_dictionary[title]['title']]['start_year'] = int(line.split('\t')[5])
-#                     print("Done for "+str(filtered_dictionaryCHARAC_GEN[character]['title'])+ " line: "+ str(count))
-#         count += 1
+count = 0
+with open('title.basics.tsv') as file:         
+    for line in file:
+        for title in start_year_dictionary:
+ #            if the name is the same for line in the imdb dataset to the name of item in DBpeople file, add the start year for the item to the dictionary made for the fictional characters
+            if line.split('\t')[2] in start_year_dictionary:
+                if line.split('\t')[5] != '\\N':
+                    filtered_dictionaryCHARAC_GEN[start_year_dictionary[title]['title']]['start_year'] = int(line.split('\t')[5])
+                    print("Done for "+str(filtered_dictionaryCHARAC_GEN[character]['title'])+ " line: "+ str(count))
+        count += 1
 
 for character in filtered_dictionaryCHARAC_GEN:
     if 'start_year' in filtered_dictionaryCHARAC_GEN[character]:
