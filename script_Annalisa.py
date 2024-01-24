@@ -4,6 +4,7 @@
 
 #import and open to read json file (DBpeople filtered for fictional characters)
 
+import re
 import json
 
 with open('filtered_characters_augmented.json', encoding='utf-8') as filtered_json:
@@ -44,16 +45,50 @@ for character_dictionary in filter_by_fic_character:
        
 # not all characters have a start year for the series/movie --> use external dataset to obtain information
 # external dataset from Imdb for startyear of item (tsv file)
+
+start_year_dictionary = {}
+unrealfirstappearance = ['Television', 'Pilot', 'Series', 'Movie', 'Miniseries', 'Pilot episode', 'TV Series', 'Television:']
+first_appearance_year ='NA'
+
+
+
+for character in filtered_dictionaryCHARAC_GEN:
+    if 'ontology/firstAppearance' in filtered_dictionaryCHARAC_GEN[character]:    
+        if type(filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']) == list:
+            for appearance in filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']:
+                matches  = re.search('[12][0-9]{3}', appearance)
+                if matches is not None:
+                    filtered_dictionaryCHARAC_GEN[character]['start_year'] = matches.group(0)
+                    break
+            if 'start_year' not in filtered_dictionaryCHARAC_GEN[character]:
+                for appearance in filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']:
+                    if appearance not in unrealfirstappearance:
+                        start_year_dictionary[appearance] = {}
+                        start_year_dictionary[appearance]['title'] = character
+                        break
+            if 'start_year' not in filtered_dictionaryCHARAC_GEN[character]:
+                filtered_dictionaryCHARAC_GEN[character]['start_year'] = 'NA'
+        else:
+            matches  = re.search('[12][0-9]{3}', filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance'])
+            if matches is not None:
+                filtered_dictionaryCHARAC_GEN[character]['star_year'] = matches.group(0)
+            else:
+                if filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance'] not in unrealfirstappearance:
+                    start_year_dictionary[filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']] = {}
+                    start_year_dictionary[filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']]['title'] = character
+
+                else:
+                    filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']
+
 count = 0
 with open('title.basics.tsv') as file:         
     for line in file:
-        for character in filtered_dictionaryCHARAC_GEN:
+        for title in start_year_dictionary:
 # if the name is the same for line in the imdb dataset to the name of item in DBpeople file, add the start year for the item to the dictionary made for the fictional characters
-            if 'ontology/firstAppearance' in filtered_dictionaryCHARAC_GEN[character]:
-                if line.split('\t')[2] == filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance']:
-                    if line.split('\t')[5] != '\\N':
-                        filtered_dictionaryCHARAC_GEN[character]['start_year'] = int(line.split('\t')[5])
-                        print("Done for "+str(filtered_dictionaryCHARAC_GEN[character]['title'])+ " line: "+ str(count))
+            if line.split('\t')[2] in start_year_dictionary:
+                 if line.split('\t')[5] != '\\N':
+                    filtered_dictionaryCHARAC_GEN[start_year_dictionary[title]['title']]['start_year'] = int(line.split('\t')[5])
+                    print("Done for "+str(filtered_dictionaryCHARAC_GEN[character]['title'])+ " line: "+ str(count))
         count += 1
 
 for character in filtered_dictionaryCHARAC_GEN:
