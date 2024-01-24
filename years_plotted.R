@@ -25,7 +25,7 @@ percentage <- number |>
   group_by(gender) |>
   summarize(sum(n))
 
-ggplot(data = character_years)+ 
+ggplot(data = percentage)+ 
   aes(x=start_year,y = n, color = gender) +
   geom_point() +
   theme_minimal()+
@@ -33,6 +33,14 @@ ggplot(data = character_years)+
   ylab('Gender Percentage')+
   scale_color_manual(values = c('#9dc190','#ffc594'))
 
-ggplot(data = )
+ratio_data <- number |>
+  group_by(gender, start_year)|>
+  pivot_wider(names_from = gender,values_from = n ) |>
+  ungroup()|>
+  mutate(ratio = Man / Woman)
+
+ggplot(data = ratio_data)+
+  aes(x=start_year,y=ratio)+
+  geom_path()
 
 #geom_smooth(method=lm , color="red", se=FALSE) +
