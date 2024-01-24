@@ -77,6 +77,7 @@ for character in filtered_dictionaryCHARAC_GEN:
         filtered_dictionaryCHARAC_GEN[character]['start_year'] = 3000
 
 
+
 count = 0
 with open('title.basics.tsv') as file:         
     for line in file:

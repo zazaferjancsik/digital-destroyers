@@ -5,35 +5,34 @@ library(ggplot2)
 character_years <- read_csv("dictionary_fictional_characters_gender.csv")
 
 filtered_years <- character_years|>
-  mutate(gender = case_when(gender == 'Boy' ~ 'Male',
-                            gender == 'Female' ~'Female',
-                            gender == 'Hermaphrodite' ~ 'Intersex',
-                            gender == 'Girl'~ 'Female',
-                            gender == 'Man'~ 'Male',
-                            gender == 'Male'~ 'Male',
+  mutate(gender = case_when(gender == 'Boy' ~ 'Man',
+                            gender == 'Female' ~'Woman',
+                            gender == 'Girl'~ 'Woman',
+                            gender == 'Man'~ 'Man',
+                            gender == 'Male'~ 'Man',
                             TRUE~ NA)) |>
   na.omit() |>
-  filter(gender == 'Male'| gender== 'Female'| gender == 'Intersex') |>
+  filter(gender == 'Man'| gender== 'Woman') |>
   unique() 
 
 number <- filtered_years |>
   ungroup() |>
   group_by(gender,start_year) |>
-  count(wt = NULL,sort = FALSE) |>
-  print()
+  count(wt = NULL,sort = FALSE)
 
 percentage <- number |>
   arrange(start_year) |>
   group_by(gender) |>
   summarize(sum(n))
-  
-ggplot(data = percentage)+ 
+
+ggplot(data = character_years)+ 
   aes(x=start_year,y = n, color = gender) +
   geom_point() +
   theme_minimal()+
-  labs(title ='Gender Ratio Over the Years')+
   xlab('Year') +
-  ylab('Gender')+
-  scale_color_manual(values = c('#b3c5f4','#ffc6c1','#b57edc'))
+  ylab('Gender Percentage')+
+  scale_color_manual(values = c('#9dc190','#ffc594'))
+
+ggplot(data = )
 
 #geom_smooth(method=lm , color="red", se=FALSE) +
