@@ -15,12 +15,17 @@ filtered_years <- character_years|>
   filter(gender == 'Man'| gender== 'Woman') |>
   unique() 
 
-percentage <- filtered_years |>
+number <- filtered_years |>
   ungroup() |>
   group_by(gender,start_year) |>
   count(wt = NULL,sort = FALSE)
 
-ggplot(data = percentage)+ 
+percentage <- number |>
+  arrange(start_year) |>
+  group_by(gender) |>
+  summarize(sum(n))
+
+ggplot(data = character_years)+ 
   aes(x=start_year,y = n, color = gender) +
   geom_point() +
   theme_minimal()+

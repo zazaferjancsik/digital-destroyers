@@ -66,8 +66,6 @@ for character in filtered_dictionaryCHARAC_GEN:
                         start_year_dictionary[appearance] = {}
                         start_year_dictionary[appearance]['title'] = character
                         break
-            if 'start_year' not in filtered_dictionaryCHARAC_GEN[character]:
-                filtered_dictionaryCHARAC_GEN[character]['start_year'] = 'NA'
         else:
             matches  = re.search('[12][0-9]{3}', filtered_dictionaryCHARAC_GEN[character]['ontology/firstAppearance'])
             if matches is not None:
@@ -91,18 +89,11 @@ with open('title.basics.tsv') as file:
         count += 1
 
 for character in filtered_dictionaryCHARAC_GEN:
-    if 'start_year' in filtered_dictionaryCHARAC_GEN[character]:
-        filtered_dictionary_CHARAC_GEN_FOR_CSV.append({
-            'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
-            'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
-            'start_year': filtered_dictionaryCHARAC_GEN[character]['start_year']
-            })
-    else:
-        filtered_dictionary_CHARAC_GEN_FOR_CSV.append({
-            'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
-            'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
-            'start_year': 'NA'
-            })
+    filtered_dictionary_CHARAC_GEN_FOR_CSV.append({
+        'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
+        'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
+        'start_year': filtered_dictionaryCHARAC_GEN[character]['start_year']
+    })
 import csv
 
 with open('dictionary_fictional_characters_gender.csv', 'w', newline='') as file:
