@@ -14,3 +14,8 @@ with open('probable_comparison.json', encoding='utf-8') as probable_json:
             if filtered_and_probable[character]['ontology/gender'] != filtered_and_probable[character]['probable gender']:
                 faulty_counts += 1
     print(total_count, counts, faulty_counts)
+
+    percentage_faulty = (faulty_counts/total_count)*100
+    percentage_good = (counts/total_count)*100
+    print(percentage_faulty)
+    print(percentage_good)

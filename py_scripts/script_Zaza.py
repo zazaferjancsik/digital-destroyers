@@ -59,6 +59,11 @@ for character_dictionary in filter_by_fic_character:
                 filtered_dictionaryCHARAC_GEN[character_dictionary['title']] = character_dictionary
                 character_dictionary['ontology/gender'] = character_dictionary["ontology/gender" ].split("/")[-1]
                 character_dictionary['probable gender'] = character_dictionary["probable gender" ].split("/")[-1]
+                if character_dictionary['ontology/gender'] == 'Girl':
+                    character_dictionary['ontology/gender'] = 'Female'
+                if character_dictionary['ontology/gender'] == 'Man':
+                    character_dictionary['ontology/gender'] = 'Male'
+                    
 
 with open('probable_comparison.json','w',encoding='utf-8')as file:
     json.dump(filtered_dictionaryCHARAC_GEN,file, indent = 4)
