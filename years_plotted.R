@@ -2,7 +2,7 @@ library(tidyverse)
 library(readr)
 library(ggplot2)
 library(dplyr)
-library()
+library(lubridate)
 
 character_years <- read_csv("dictionary_fictional_characters_gender.csv")
 
@@ -18,20 +18,33 @@ filtered_years <- character_years|>
 number <- filtered_years |>
   ungroup() |>
   group_by(gender,start_year) |>
-  count(wt = NULL,sort = FALSE)
+  count(wt = NULL,sort = FALSE) |>
+  filter(start_year>1900, start_year<2020)
 
-percentage <- number |>
-  arrange(start_year) |>
-  group_by(gender) |>
-  summarize(sum(n))
+#percentage <- number |>
+ # pivot_wider(names_from = gender,values_from = n ) |>
+  #arrange(start_year) |>
+  #mutate(
+   # Man = if_else(is.na(Man), 0, Man),
+    #Woman = if_else(is.na(Woman), 0, Woman))|>
+  #ungroup()|>
+#  na.omit()|>
+ # group_by(start_year)|>
+#  mutate(total_sum = sum(Man+Woman))|>
+ # mutate(Man_percent= Man/total_sum,
+  #       Woman_percent = Woman/total_sum)|>
+#  pivot_longer(cols = c('Man_percent','Woman_percent'),names_to = 'gender_per',values_to = 'percent')|>
+ # pivot_longer(cols = c('Man','Woman'),names_to = 'gender',values_to = 'number')|>
+  #filter(start_year>1910)
 
-ggplot(data = percentage)+ 
-  aes(x=start_year,y = n, color = gender) +
-  geom_point() +
+number |> filter(start_year >= 1919, start_year<=2019) |>
+  ggplot()+ 
+  aes(x=start_year, y=n,fill = gender) +
+  geom_bar(stat= 'summary_bin', fun = sum, position = 'dodge',bins=4)+
   theme_minimal()+
   xlab('Year') +
-  ylab('Gender Percentage')+
-  scale_color_manual(values = c('#9dc190','#ffc594'))
+  ylab('Cummulative number of gender')+
+  scale_fill_manual(values = c('#9dc190','#ffc594'))
 
 number_years <- number |>
   pivot_wider(names_from = gender,values_from = n ) |>
@@ -48,7 +61,7 @@ number_years <- number |>
   filter(start_year>1900)
 
 ggplot(data = number_years)+
-  aes(x= start_year, y= number, color = gender)+
+  aes(x= start_year, y=number, color = gender)+
   geom_point()+
   guides(color = guide_legend('Gender'))+
   xlab('Year')+
