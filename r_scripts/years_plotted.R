@@ -78,6 +78,7 @@ ratio_data <- number_years |>
 ggplot(data = ratio_data)+
   aes(x=start_year,y=ratio)+
   geom_point()+
+  geom_line()+
   theme_minimal()+
   xlab('Year')+
   ylab('Ratio of Man to Woman')
