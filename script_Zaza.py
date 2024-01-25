@@ -60,17 +60,20 @@ for character_dictionary in filter_by_fic_character:
                 character_dictionary['ontology/gender'] = character_dictionary["ontology/gender" ].split("/")[-1]
                 character_dictionary['probable gender'] = character_dictionary["probable gender" ].split("/")[-1]
 
-for character in filtered_dictionaryCHARAC_GEN:
-        filtered_dictionary_CHARAC_GEN_FOR_CSV_altered.append({
-            'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
-            'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
-            'probable gender': filtered_dictionaryCHARAC_GEN[character]['probable gender']
-        })
-import csv
+with open('probable_comparison.json','w',encoding='utf-8')as file:
+    json.dump(filtered_dictionaryCHARAC_GEN,file, indent = 4)
 
-with open('dictionary_fictional_characters_gender_probable.csv', 'w', newline='') as file:
-    fieldnames = ['fic_character', 'gender', 'probable gender']
-    writer = csv.DictWriter(file, fieldnames=fieldnames)
-    writer.writeheader()
-    for item in filtered_dictionary_CHARAC_GEN_FOR_CSV_altered:
-        writer.writerow(item)
+# for character in filtered_dictionaryCHARAC_GEN:
+#         filtered_dictionary_CHARAC_GEN_FOR_CSV_altered.append({
+#             'fic_character': filtered_dictionaryCHARAC_GEN[character]['title'],
+#             'gender' : filtered_dictionaryCHARAC_GEN[character]['ontology/gender'],
+#             'probable gender': filtered_dictionaryCHARAC_GEN[character]['probable gender']
+#         })
+# import csv
+
+# with open('dictionary_fictional_characters_gender_probable.csv', 'w', newline='') as file:
+#     fieldnames = ['fic_character', 'gender', 'probable gender']
+#     writer = csv.DictWriter(file, fieldnames=fieldnames)
+#     writer.writeheader()
+#     for item in filtered_dictionary_CHARAC_GEN_FOR_CSV_altered:
+#         writer.writerow(item)
