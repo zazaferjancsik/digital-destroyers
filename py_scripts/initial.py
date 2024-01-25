@@ -20,7 +20,13 @@ with open('filtered_characters.json','w',encoding='utf-8')as file:
     json.dump(character,file, indent = 4)
 
 # print("Done")
- 
+
+
+
+
+#Aborted attempt to use top 100 most common first names to find more data on gender
+
+
 
 
 # with open('boys-names-txt.txt.txt', encoding = 'utf-8') as file_boys:
