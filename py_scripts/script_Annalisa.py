@@ -1,7 +1,3 @@
-# FIRST --> do current representation,
-# LATER --> split up for bias etc, when it appeared
-# current representation: fictional characters, gender, csv, R, visualisation
-
 #import and open to read json file (DBpeople filtered for fictional characters)
 
 import re
