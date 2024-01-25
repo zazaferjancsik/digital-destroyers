@@ -1,3 +1,4 @@
+
 {
     "Apollo_Creed": {
         "title": "Apollo_Creed",
@@ -2121,7 +2122,7 @@
         ],
         "ontology/occupation_label": "Cartoonist",
         "http://www.w3.org/2000/01/rdf-schema#label": "Jon Arbuckle",
-        "ontology/gender": "Male",
+        "ontology/gender": "Man",
         "ontology/portrayer": "http://dbpedia.org/resource/Breckin_Meyer",
         "ontology/occupation": "http://dbpedia.org/resource/Cartoonist",
         "ontology/creator": "http://dbpedia.org/resource/Jim_Davis_(cartoonist)",
@@ -3911,7 +3912,7 @@
         ],
         "ontology/nationality_label": "Sweden",
         "http://www.w3.org/2000/01/rdf-schema#label": "Pippi Longstocking",
-        "ontology/gender": "Female",
+        "ontology/gender": "Girl",
         "ontology/portrayer": "http://dbpedia.org/resource/Inger_Nilssonl",
         "ontology/creator": "http://dbpedia.org/resource/Astrid_Lindgren",
         "ontology/gender_label": "Girl",
