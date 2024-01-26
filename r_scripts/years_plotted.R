@@ -84,7 +84,7 @@ ratio_data <- number_years1 |>
 #line at ypoint 1 to show where man and woman would be equal.
 ggplot(data = ratio_data)+
   aes(x=start_year,y=ratio)+
-  ylim(0,1.1)+
+  scale_y_continuous(limits = c(0,1.1), breaks = c(0,0.2,0.4,0.6,0.8,1))+
   geom_point()+
   geom_line()+
   geom_hline(yintercept = 1)+
