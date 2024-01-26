@@ -37,22 +37,23 @@ number |> filter(start_year >= 1919, start_year<=2019) |>
   scale_fill_manual(values = c('#9dc190','#ffc594'))
 
 #moving the Man and Woman under gender to become their own columns. Replacing 
-# NA values with 0 to be able to later on do the cummulative sum. Arrange the 
+# NA values with 0 to be able to later on do the cumulative sum. Arrange the 
 #years so that they go from oldest to most recent. After getting the cum. sum.
 # moving Man and Woman back to the column gender. 
-number_years <- number |>
-  pivot_wider(names_from = gender,values_from = n ) |>
+number_years1 <- number |>
+  pivot_wider(names_from = gender,values_from = n )|>
   mutate(
     Man = if_else(is.na(Man), 0, Man),
     Woman = if_else(is.na(Woman), 0, Woman)
-    )|>
-  ungroup()|>
+  )|>
+  ungroup() |>
   arrange(start_year)|>
   na.omit()|>
   mutate(Man=cumsum(Man),
-         Woman=cumsum(Woman))|>
-  pivot_longer(cols = c('Man','Woman'),names_to = 'gender',values_to = 'number') |>
-  filter(start_year>1900)
+         Woman=cumsum(Woman))
+  
+number_years <- number_years1 |>
+  pivot_longer(cols = c('Man','Woman'),names_to = 'gender',values_to = 'number') 
 
 #plotting the cummulative value of each gender throughout the years. 
 ggplot(data = number_years)+
@@ -67,9 +68,9 @@ ggplot(data = number_years)+
 ggsave('Cummulative_number_gender_per_year.pdf')
 
 #calculating the ratio by dividing the cummulative Man by the Woman.
-ratio_data <- number_years |>
+ratio_data <- number_years1 |>
   mutate(ratio = Man / Woman)|>
-  filter(start_year>1920)
+  filter(start_year>=1920,start_year<=2019)
 
 #creating scatterplot and connecting the points with a line.
 ggplot(data = ratio_data)+
@@ -77,7 +78,7 @@ ggplot(data = ratio_data)+
   geom_point()+
   geom_line()+
   theme_minimal()+
-  xlab('Year')+
+  xlab('Debut Year of Characters')+
   ylab('Ratio of Man to Woman')
 
 ggsave('Ratio_Man_to_Woman.pdf')
