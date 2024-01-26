@@ -28,7 +28,7 @@ number <- filtered_years |>
 #filtering out years before 1919 and after 2019. Stacking the proportion of 
 #instances of each gender per decade.  
 number |> filter(start_year >= 1919, start_year<=2019) |>
-  mutate(decade = round(start_year / 10) * 10) |>
+  mutate(decade = floor(start_year / 10) * 10) |>
   group_by(decade, gender) |>
   summarize(n = sum(n)) |>
   mutate(prop = n / sum(n)) |>
@@ -38,7 +38,7 @@ number |> filter(start_year >= 1919, start_year<=2019) |>
   geom_hline(yintercept =0.5)+
   theme_minimal()+
   guides(fill = guide_legend('Gender'))+
-  xlab('Year') +
+  xlab('Debut Year of Character') +
   ylab('Proportion of Gender per Decade')+
   scale_fill_manual(values = c('#9dc190','#ffc594'))
 
