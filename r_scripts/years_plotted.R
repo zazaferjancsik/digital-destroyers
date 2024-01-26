@@ -63,7 +63,7 @@ number_years1 <- number |>
 number_years <- number_years1 |>
   pivot_longer(cols = c('Man','Woman'),names_to = 'gender',values_to = 'number') 
 
-#plotting the cummulative value of each gender throughout the years. 
+#plotting the cumulative value of each gender throughout the years. 
 ggplot(data = number_years)+
   aes(x= start_year, y=number, color = gender)+
   geom_point()+
@@ -75,12 +75,13 @@ ggplot(data = number_years)+
   
 ggsave('Cummulative_number_gender_per_year.pdf')
 
-#calculating the ratio by dividing the cummulative Man by the Woman.
+#calculating the ratio by dividing the cumulative Woman by the Man.
 ratio_data <- number_years1 |>
   mutate(ratio =  Woman /Man)|>
   filter(start_year>=1920,start_year<=2019)
 
-#creating scatterplot and connecting the points with a line.
+#creating scatterplot and connecting the points with a line.Adding a horizontal 
+#line at ypoint 1 to show where man and woman would be equal.
 ggplot(data = ratio_data)+
   aes(x=start_year,y=ratio)+
   ylim(0,1.1)+
