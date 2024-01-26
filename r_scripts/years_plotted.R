@@ -25,15 +25,21 @@ number <- filtered_years |>
   count(wt = NULL,sort = FALSE) |>
   filter(start_year>1900, start_year<2020)
 
-#filtering out years before 1919 and after 2019. using 'summar_bin' to 
-#add the counts per 25 years. Although it says 4 bins, the graph displays 5. 
+#filtering out years before 1919 and after 2019. Stacking the proportion of 
+#instances of each gender per decade.  
 number |> filter(start_year >= 1919, start_year<=2019) |>
-  ggplot()+ 
-  aes(x=start_year, y=n,fill = gender) +
-  geom_bar(stat= 'summary_bin', fun = sum, position = 'dodge',bins=4)+
+  mutate(decade = round(start_year / 10) * 10) |>
+  group_by(decade, gender) |>
+  summarize(n = sum(n)) |>
+  mutate(prop = n / sum(n)) |>
+  ggplot() + 
+  aes(x=decade, y=prop, fill = gender) +
+  geom_bar(position = position_stack(), stat= 'identity')+
+  geom_hline(yintercept =0.5)+
   theme_minimal()+
+  guides(fill = guide_legend('Gender'))+
   xlab('Year') +
-  ylab('Cummulative number of gender')+
+  ylab('Proportion of gender')+
   scale_fill_manual(values = c('#9dc190','#ffc594'))
 
 #moving the Man and Woman under gender to become their own columns. Replacing 
@@ -69,16 +75,18 @@ ggsave('Cummulative_number_gender_per_year.pdf')
 
 #calculating the ratio by dividing the cummulative Man by the Woman.
 ratio_data <- number_years1 |>
-  mutate(ratio = Man / Woman)|>
+  mutate(ratio =  Woman /Man)|>
   filter(start_year>=1920,start_year<=2019)
 
 #creating scatterplot and connecting the points with a line.
 ggplot(data = ratio_data)+
   aes(x=start_year,y=ratio)+
+  ylim(0,1.1)+
   geom_point()+
   geom_line()+
+  geom_hline(yintercept = 1)+
   theme_minimal()+
   xlab('Debut Year of Characters')+
-  ylab('Ratio of Man to Woman')
+  ylab('Ratio of Woman to Man')
 
 ggsave('Ratio_Man_to_Woman.pdf')
