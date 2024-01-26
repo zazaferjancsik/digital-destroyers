@@ -39,8 +39,10 @@ number |> filter(start_year >= 1919, start_year<=2019) |>
   theme_minimal()+
   guides(fill = guide_legend('Gender'))+
   xlab('Year') +
-  ylab('Proportion of gender')+
+  ylab('Proportion of Gender per Decade')+
   scale_fill_manual(values = c('#9dc190','#ffc594'))
+
+ggsave('Proportion_gen_dec.pdf')
 
 #moving the Man and Woman under gender to become their own columns. Replacing 
 # NA values with 0 to be able to later on do the cumulative sum. Arrange the 
